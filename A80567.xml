@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cordial elegie &amp; epitaph upon the much lamented death of that incomparable Prince Henry Duke of Glocester, brother to our Sovereign Lord the King, the most perfect and accomplished prince of his years the Christian world could boast of; and a royal cedar endowed with as many great vertues as mortality could receive; a prince of such fortitude abroad and wisdom at home, vastness of wit and understanding, that no prince could parrallel, always steadfast in religion, and a prince who, if we compare his valour with his meekness, his knowledge with his innocence, and his religion with his youth, no prince can equalize; deceased the 13th of September 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80567</idno>
+            <idno type="STC">Wing C6284</idno>
+            <idno type="STC">Thomason E1045_7</idno>
+            <idno type="STC">ESTC R207958</idno>
+            <idno type="EEBO-CITATION">99866971</idno>
+            <idno type="PROQUEST">99866971</idno>
+            <idno type="VID">168968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cordial elegie &amp; epitaph upon the much lamented death of that incomparable Prince Henry Duke of Glocester, brother to our Sovereign Lord the King, the most perfect and accomplished prince of his years the Christian world could boast of; and a royal cedar endowed with as many great vertues as mortality could receive; a prince of such fortitude abroad and wisdom at home, vastness of wit and understanding, that no prince could parrallel, always steadfast in religion, and a prince who, if we compare his valour with his meekness, his knowledge with his innocence, and his religion with his youth, no prince can equalize; deceased the 13th of September 1660.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title page woodcut.</note>
+                  <note>Annotation on Thomason copy: "Sept. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry, --  Duke of Gloucester, 1640-1660 --  Poetry --  Early works to 1800.</term>
+               <term>Death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168968:1" rendition="simple:additions"/>
+            <p>A CORDIAL Elegie &amp; Epitaph UPON The much l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mented Death of that incom<g ref="char:EOLhyphen"/>parable Prince <hi>HENRY</hi> Duke of <hi>Gloceſter,</hi> Brother to our Sove<g ref="char:EOLhyphen"/>reign Lord the KING, the moſt perfect and accompliſhed Prince of his years the Chriſtian World could boaſt of; And a Royal Cedar endowed with as many great Vertues as mortality could receive; A Prince of ſuch Fortitude abroad and wiſdom at home, vaſtneſs of wit and underſtanding, that no Prince could parrallel, always ſtead<g ref="char:EOLhyphen"/>faſt in Religion, and a Prince who, if we compare his Valour with his Meekneſs, his Knowledge with his Innocence, and his Religion with his Youth, no Prince can equalize; Deceaſed the <hi>13th</hi> of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1660.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>GEORGE HORION,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:168968:2"/>
+            <pb n="1" facs="tcp:168968:2"/>
+            <head>A Cordi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ELEGIE UPON The much lamented death of that moſt hopeful young Prince, <hi>HENRY</hi> Duke of <hi>Glouceſter,</hi> deceaſed <hi>Thurſday</hi> the <hi>13th</hi> of <hi>September,</hi> 1660.</head>
+            <lg>
+               <l>PArdon O Heavens, juſt God wherein have we</l>
+               <l>Tranſgreſt againſt thy Glorious Majeſty,</l>
+               <l>Were we ungratefull for thy bounty when</l>
+               <l>Thou gaveſt to us theſe Princes; we to them</l>
+               <l>And to a happy State did us reſtore</l>
+               <l>From out the bondage we were in before,</l>
+               <l>O no great God, we from our ſelves confeſs</l>
+               <l>Thy Mercies: Angells be our Witneſſe.</l>
+               <l>What Cauſe O Muſe? Is God prophan'd? or why</l>
+               <l>Suſteine we ſtill perpetual miſery?</l>
+               <l>Has Grief no end, and muſt we ever go</l>
+               <l>Whilſt Earth remains Concomitants with wo.</l>
+               <pb n="2" facs="tcp:168968:3"/>
+               <l>Was't not enough by Ttaytors Tyranny,</l>
+               <l>To looſe bles't <hi>Charles</hi> of glorious me nory:</l>
+               <l>And then to languiſh ſo extream a while,</l>
+               <l>Dureing the time of their moſt ſad exile:</l>
+               <l>In boundleſs miſery; but again this loſs!</l>
+               <l>(We could not been redeem'd without the Croſs)</l>
+               <l>Proves bitter to our ſweetneſs; <hi>Glouceſter</hi>'s gone,</l>
+               <l>That hopefull Prince, this ages Paragon:</l>
+               <l>That bleſſed Image of our Martyr'd King,</l>
+               <l>Lop't in the prime of his moſt happy ſpring:</l>
+               <l>So ſhort an age, and with ſuch trouble paſt,</l>
+               <l>Concludes his life was but a Winters blaſt:</l>
+               <l>So many dolefull houres in which he view'd</l>
+               <l>Rampant Rebellion Rigorouſly intrude</l>
+               <l>Upon his Fathers Kingdomes and inveſt</l>
+               <l>With Barbarous fu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y our moſt peacefull reſt:</l>
+               <l>Thus he no ſooner having made the earth</l>
+               <l>More happy by his moſt Illuſtrous Birth:</l>
+               <l>But ſtraight all Hells enrag'd; each fury ſits,</l>
+               <l>And for diſtraction bend their Curſed wits,</l>
+               <l>Envy Diſſention, diſobedience frames,</l>
+               <l>And black diſloyalty our Realmes enflames:</l>
+               <l>Blood, Monſtrous Treaſon, Murther and debate</l>
+               <l>With Ravenous Wolves poſſeſs our peacefull ſtate:</l>
+               <l>Since and befor ethe Murther of our <hi>KING,</hi>
+               </l>
+               <l>His life is a continuall ſuffering:</l>
+               <l>Which yet with more than manly fortitude</l>
+               <l>He bore, nor ſuffer'd horror to entrude</l>
+               <l>Upon his Valiant ſoul; his Royal breaſt</l>
+               <l>Was ever fill'd with glory that expreſt:</l>
+               <l>He was the Race of Heaven; and ſoar'd as high</l>
+               <l>Upon the wings of pleas'd Alacrity:</l>
+               <l>But now! O when the Heavens moſt ſacred Grace</l>
+               <l>Had ſmooth'd the terror of his dreadfull face</l>
+               <l>To pleaſing ſmiles converts his angry frowns,</l>
+               <l>Our bleeding Kingdoms mercifully Crownes</l>
+               <l>With ſweet Tranquillity bleſt <hi>Henry</hi> he</l>
+               <l>Comes only and ſurveys our vanity:</l>
+               <pb n="3" facs="tcp:168968:3"/>
+               <l>And back to Heaven retyres whence firſt he came</l>
+               <l>To bleſs the world with his Illuſtrious name:</l>
+               <l>Like to a <hi>Moſes</hi> he became our guide,</l>
+               <l>He brought us to our <hi>Canaan,</hi> and then dy'd:</l>
+            </lg>
+            <lg>
+               <l>But ſtay me thinks I hear a voyce from Hell,</l>
+               <l>Adamn'd Phantique Thunders forth a Spell;</l>
+               <l>Long ſince condem'd th' Eternalls doome to bear</l>
+               <l>With hideous language thus Inchants the eare</l>
+               <l>Of his yet living Brethren, and informes</l>
+               <l>Them with a Volley of moſt horrid Stormes,</l>
+               <l>That this on us a fatall judgment was</l>
+               <l>For trampling down forſooth their <hi>Good Old Cauſe:</hi>
+               </l>
+               <l>To which the Heavens reply; if ſo it be,</l>
+               <l>Tht 'tis a judgment, <hi>Charles</hi> his Clemency:</l>
+               <l>Occaſions it; in ſuffering ſuch to breath,</l>
+               <l>Whom <hi>Gods</hi> decree had juſtly mark't for death:</l>
+               <l>See <hi>Saul</hi> th' Almight yes favour was deny'd,</l>
+               <l>Whilſt Murtherous <hi>Agag</hi> good Indemnify'd:</l>
+               <l>And <hi>Ahabs</hi> life a ſatisfaction gives</l>
+               <l>For <hi>Iſraels</hi> ſin becauſe <hi>Benhadad</hi> lives.</l>
+            </lg>
+            <lg>
+               <l>Pardon dread Soveraign ſorrow cannot hold,</l>
+               <l>If that my zeal hath made me overbold:</l>
+               <l>Not that we tax your mercy, but our fear</l>
+               <l>For this our loſs augments a doubtfull tear:</l>
+               <l>Leaſt our bleſt Martyr <hi>Charles,</hi> his blood has cry'd</l>
+               <l>to Heaven, and Heaven remaines unſatisfy'd:</l>
+               <l>O may they ſoon receive their fatall due,</l>
+               <l>Leaſt what's but now our fear, may prove too true.</l>
+            </lg>
+            <lg>
+               <l>O Envious <hi>Fate</hi> that with ſuch dread appears</l>
+               <l>To put a period to his bloomeing years:</l>
+               <l>With what a mournfull face haſt thou beſet</l>
+               <l>Three drooping Realmes with palefull <hi>Cypreſs;</hi> wet</l>
+               <l>In Stygian ſtreames (our <hi>Glouceſter</hi> being dead)</l>
+               <l>Where late the lively Lawrell flouriſhed:</l>
+               <pb n="4" facs="tcp:168968:4"/>
+               <l>Though newly ſprung, yet with a potent grace</l>
+               <l>Did both protect and glorifie the place,</l>
+               <l>Which now appears like to an unquoth Cell,</l>
+               <l>Where onely Pilgrims and ſad Mourners dwell</l>
+               <l>Our Countrey, City, Potentates, and Court,</l>
+               <l>All Clad in Sables mournfully report.</l>
+               <l>Our mis'rable misfortune to the skys,</l>
+               <l>With dolefull hearts and ſad lamenting eyes;</l>
+               <l>But O if this ſuch dyre dejection bring</l>
+               <l>Unto the people, how reſents the King</l>
+               <l>And Duke, this Priceleſs loſs in whom we view'd</l>
+               <l>Three glorious bodyes with one ſoul endu'd:</l>
+               <l>O how it pierces their Heroick ſouls,</l>
+               <l>How outward woe and inward grief controules:</l>
+               <l>their Royal natures, ſtriving to outvy</l>
+               <l>our ſacred Soveraign in Majeſty:</l>
+               <l>Needs muſt the ſaddneſs of our Land be great</l>
+               <l>When ſorrow ſolely ſwa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es the regal ſeat:</l>
+               <l>When <hi>Yorks</hi> moſt Valliant Duke theſe tydings heares</l>
+               <l>It like a Mandrake ſoundeth in his eares:</l>
+               <l>Of which his Princely Siſter bears a part,</l>
+               <l>That thrills like lightning through her tender heart:</l>
+               <l>The laſt of all th'indulgent Mother oh,</l>
+               <l>How quickly's all her joy's now turn'd to woe:</l>
+               <l>She who beheld her tender branches toſt</l>
+               <l>By boyſterous ſtormes of Perſecution; croſt</l>
+               <l>By barbarous Torrents of Rebellious Elves,</l>
+               <l>Daily repulſt upon the dangerous ſhelves</l>
+               <l>Of War and Treaſon; now which hope reviv'd,</l>
+               <l>Seeing her happy Sons which joy receiv'd:</l>
+               <l>In glad aſſurance truſts to ſee again,</l>
+               <l>Her Children in a glorious Triumph Reign:</l>
+               <l>With plentuous bleſſings and a Land Tranquill,</l>
+               <l>That may perſwade her <hi>Charles</hi> is living ſtill:</l>
+               <l>But O when ſhe to <hi>England</hi> ſhall reſort,</l>
+               <l>Her deareſt <hi>GLOUCESTER</hi>'s miſſing from the Court:</l>
+               <l>This only comfort left, hee's gone to ſee</l>
+               <l>His Father Crown'd with Heavenly Majeſty.</l>
+               <pb n="5" facs="tcp:168968:4"/>
+               <l>There reſt moſt Glorious bleſſed Soul with his,</l>
+               <l>Th' eternall ſharer of his boundleſs bliſs:</l>
+               <l>Whilſt we thy abſence mourne, and deck thy Herſe</l>
+               <l>With Cordiall briney Teares, and Tragick verſe.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>EPITAPH.</head>
+            <lg>
+               <l>H ere lyes <hi>Glouceſters</hi> faireſt flower,</l>
+               <l>E nglands joy in one bleſt hour:</l>
+               <l>N ewly ſprung; yet ſoon from hence,</l>
+               <l>R ap't to eternall Reſidence:</l>
+               <l>Y ou that at his Tomb appear,</l>
+            </lg>
+            <lg>
+               <l>D uly pay devotion here,</l>
+               <l>U nto theſe Holy Aſhes, for</l>
+               <l>K nown when he dy'd there fell a Star:</l>
+               <l>E arly as his year; the fall</l>
+            </lg>
+            <lg>
+               <l>O f which proves Epidemicall:</l>
+               <l>F alſe Earthly joyes appear'd for him,</l>
+            </lg>
+            <lg>
+               <l>G loryes to baſe in Heavens eſteem:</l>
+               <l>L ifted up above the Skyes,</l>
+               <l>O n Angels wings to Paradize:</l>
+               <l>V ertue in his Royall breaſt,</l>
+               <l>C ontinuall flames of wrath poſſeſt:</l>
+               <l>E nvious Time his glorious name,</l>
+               <l>S hall ne'r deſtroy; his loud Tongu'd fame:</l>
+               <l>T his pious Marble ſtill declares</l>
+               <l>E ncompaſt with a Sea of Tears</l>
+               <l>R epleniſht daily from his eyes</l>
+               <l>Of conſtant Loyall Votaryes.</l>
+            </lg>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
